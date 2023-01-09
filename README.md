@@ -18,4 +18,3 @@
   <img align="center" alt="Pedro-csharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 </li>
   
-![Snake animation](https://github.com/PedroAugusto02/PedroAugusto02/blob/output/github-contribution-grid-snake.svg)
